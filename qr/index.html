@@ -1,0 +1,33 @@
+<html>
+<head>
+  <title>QR Code Generator</title>
+  <!-- Laden Sie das qrcodejs-Skript herunter -->
+  <script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
+</head>
+<body>
+  <h1>QR Code Generator</h1>
+  <p>Geben Sie den Text ein, den Sie in einen QR-Code umwandeln möchten:</p>
+  <form onsubmit="createQRCode(); return false" >
+    <input type="text" id="text-input" />
+    <button type="submit" onclick="createQRCode()">QR-Code erstellen</button>
+  </form>
+  <!-- Div, in dem der QR-Code angezeigt wird -->
+  <div id="qr-code"></div>
+  <script>
+    function createQRCode() {
+      // Holen Sie sich den eingegebenen Text
+      var text = document.getElementById("text-input").value;
+      // Erstellen Sie einen neuen QR-Code
+	document.getElementById("qr-code").innerHTML = "";
+      var qrcode = new QRCode("qr-code", {
+        text: text,
+        width: 225,
+        height: 225,
+        colorDark : "#000000",
+        colorLight : "#ffffff",
+        correctLevel : QRCode.CorrectLevel.H
+      });
+    }
+  </script>
+</body>
+</html>
