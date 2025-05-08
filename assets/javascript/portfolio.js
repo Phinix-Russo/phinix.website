@@ -28,7 +28,7 @@ $(document).ready(() => {
       `<a href="https://github.com/Phinix-Russo" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/ttZeXUQXVw" target="_BLANK"> « Discord »     </a>`
+      `<a href="https://discord.com/invite/chillinglife" target="_BLANK"> « Discord »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -37,7 +37,7 @@ $(document).ready(() => {
       `<a href="https://github.com/Phinix-Russo" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/ttZeXUQXVw" target="_BLANK"> « Discord »     </a>`
+      `<a href="https://discord.com/invite/chillinglife" target="_BLANK"> « Discord »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -46,7 +46,7 @@ $(document).ready(() => {
       `<a href="https://github.com/Phinix-Russo" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/ttZeXUQXVw" target="_BLANK"> « Discord »     </a>`
+      `<a href="https://discord.com/invite/chillinglife" target="_BLANK"> « Discord »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -55,7 +55,7 @@ $(document).ready(() => {
       `<a href="https://github.com/Phinix-Russo" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/ttZeXUQXVw" target="_BLANK"> « Discord »     </a>`
+      `<a href="https://discord.com/invite/chillinglife" target="_BLANK"> « Discord »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -64,7 +64,7 @@ $(document).ready(() => {
       `<a href="https://github.com/Phinix-Russo" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/ttZeXUQXVw" target="_BLANK"> « Discord »     </a>`
+      `<a href="https://discord.com/invite/chillinglife" target="_BLANK"> « Discord »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -73,7 +73,7 @@ $(document).ready(() => {
       `<a href="https://github.com/Phinix-Russo" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/ttZeXUQXVw" target="_BLANK"> « Discord »     </a>`
+      `<a href="https://discord.com/invite/chillinglife" target="_BLANK"> « Discord »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -82,7 +82,7 @@ $(document).ready(() => {
       `<a href="https://github.com/Phinix-Russo" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/ttZeXUQXVw" target="_BLANK"> « Discord »     </a>`
+      `<a href="https://discord.com/invite/chillinglife" target="_BLANK"> « Discord »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -91,7 +91,7 @@ $(document).ready(() => {
       `<a href="https://github.com/Phinix-Russo" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/ttZeXUQXVw" target="_BLANK"> « Discord »     </a>`
+      `<a href="https://discord.com/invite/chillinglife" target="_BLANK"> « Discord »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -100,7 +100,7 @@ $(document).ready(() => {
       `<a href="https://github.com/Phinix-Russo" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/ttZeXUQXVw" target="_BLANK"> « Discord »     </a>`
+      `<a href="https://discord.com/invite/chillinglife" target="_BLANK"> « Discord »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -109,7 +109,7 @@ $(document).ready(() => {
       `<a href="https://github.com/Phinix-Russo" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/ttZeXUQXVw" target="_BLANK"> « Discord »     </a>`
+      `<a href="https://discord.com/invite/chillinglife" target="_BLANK"> « Discord »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -118,7 +118,7 @@ $(document).ready(() => {
       `<a href="https://github.com/Phinix-Russo" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/ttZeXUQXVw" target="_BLANK"> « Discord »     </a>`
+      `<a href="https://discord.com/invite/chillinglife" target="_BLANK"> « Discord »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -127,7 +127,7 @@ $(document).ready(() => {
       `<a href="https://github.com/Phinix-Russo" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/ttZeXUQXVw" target="_BLANK"> « Discord »     </a>`
+      `<a href="https://discord.com/invite/chillinglife" target="_BLANK"> « Discord »     </a>`
     );
 
     link = $("#marquee").children("a").last();
@@ -144,7 +144,7 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(["Phinix"]);
+  app.titleChanger(["PphinixX"]);
   app.iconChanger([
     "assets/icons/roses/rose1.jpg",
     "assets/icons/roses/rose2.jpg",
@@ -179,7 +179,7 @@ $("html").on("contextmenu", (event) => {
   img.src = "assets/others/trollface.jpg";
   img.width = 64;
   img.height = 64;
-  img.alt = "`Phinix8i.github.io";
+  img.alt = "`PphinixX8i.github.io";
   img.style = `position: absolute; left: ${event.pageX}px; top: ${event.pageY}px; z-index: 10`;
   img.className = `troll ${trollfaceLight}`;
 
@@ -225,7 +225,7 @@ $.getJSON(ipgeolocation, (data) => {
   writeLine(
     [
       "Authenticating...",
-      "Granting access to <span style='font-size: 14px; color: #06d;'>[Phinix Website]</span>...",
+      "Granting access to <span style='font-size: 14px; color: #06d;'>[PphinixX Website]</span>...",
     ],
     30,
     () => {
