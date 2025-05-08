@@ -23,6 +23,13 @@ class _app {
     "trashtalker",
     "steam artwork designer",
     "full time money waster",
+    "destroying kids dreams since 2017",
+     "PphinixX owns you",
+      "Discord owner",
+       "reaping rewards",
+        "professional kpop destroyer",
+         "discord terminated",
+          "Discord Username : phinix_russo"
   ];
 
   titleChanger = (text, delay) => {
